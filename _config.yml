@@ -55,7 +55,7 @@ address:
   - line: Dallas, TX 75243
 
 # Credits content
-credits: '   email:  <a href="mailto:alexirion10@gmail.com ">alexirion10@gmail.com</a>    phone: 214-601-1833'
+credits: 'email:<a href="mailto:alexirion10@gmail.com ">alexirion10@gmail.com</a>\nphone: 214-601-1833'
 
 # Build settings
 markdown: kramdown
