@@ -46,6 +46,8 @@ social:
     url: https://bitbucket.org/alexirion10/
   - title: github
     url: https://github.com/alexirion10
+  - title: linkedin
+    url: https://www.linkedin.com/pub/alex-irion/74/4b9/870 
 
 # Postal address (add as many lines as necessary)
 address:
@@ -53,7 +55,10 @@ address:
   - line: Dallas, TX 75243
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
+  -line: 'alexirion10@gmail.com'
+  -line: '214-601-1833'
+
 
 # Build settings
 markdown: kramdown
